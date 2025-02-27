@@ -1,3 +1,6 @@
+# ** This repository is no longer maintained! ** 
+Our current Java SDK can be found <a href="https://github.com/globalpayments/java-sdk" target="_blank">here</a>
+
 <a href="https://github.com/globalpayments" target="_blank">
     <img src="https://developer.globalpay.com/static/media/logo.dab7811d.svg" alt="Global Payments logo" title="Global Payments" align="right" width="225" />
 </a>
